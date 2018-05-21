@@ -1,0 +1,5 @@
+br\com\execHiber\model\Cliente2.class
+br\com\execHiber\persistence\IDAO.class
+br\com\execHiber\persistence\ClienteHibernateDAO.class
+br\com\execHiber\persistence\HibernateUtil.class
+br\com\execHiber\App.class
